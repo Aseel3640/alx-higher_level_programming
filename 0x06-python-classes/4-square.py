@@ -24,6 +24,7 @@ class Square:
         """
         return (self.__size) ** 2
 
+
     def size(self):
         """getter of __size
 
@@ -31,6 +32,7 @@ class Square:
             The square's size
         """
         return self.__size
+
 
     def size(self, value):
         """setter of __size
